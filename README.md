@@ -1,7 +1,7 @@
 # CV-CarDamageDetection
 ### Team - CODEnter
 * 윤소미, 장주찬, 전규원, 한정현, 허 권   
-[PPT](https://github.com/heokwon/CV-CarDamageDetection/blob/main/car%20damage.pdf)
+[PPT](https://github.com/YoonSSom/CarDamage_Detection/blob/master/car%20damage.pdf)
 <br><br>
 ## Introduction
 * Semantic Segmentation을 이용한 자동차 파손부위 탐지   
